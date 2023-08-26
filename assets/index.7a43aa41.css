@@ -317,7 +317,7 @@ p {
     height: calc(100% + 4px);
     border-radius: inherit;
     transition: .4s ease-in-out all;
-    background-image: linear-gradient(to right, #E05900, #FDA200, #FDA200, #E05900);
+    background-image: linear-gradient( #ff20c7);
     animation: gradient-animation 4s ease-in-out infinite;
     opacity: 0
 }
@@ -1170,7 +1170,7 @@ p {
     position: absolute;
     width: 46px;
     height: 100%;
-    background: #FF7700
+    background: #ff20c7
 }
 
 @media (min-width: 768px) {
@@ -1380,7 +1380,7 @@ p {
     color: #000;
     padding-top: 3.75rem;
     padding-bottom: 3.75rem;
-    background: linear-gradient(#ffc22d 0%, #ffa229 100%);
+    background: linear-gradient(#ff20c7 0%, #92006e 100%);
     overflow: hidden
 }
 
