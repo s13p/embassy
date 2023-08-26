@@ -243,7 +243,7 @@ p {
 .countdown__label,
 .section__subtitle {
     text-transform: uppercase;
-    color: #fd8000;
+    color: #ff20c7;
     font-weight: 700;
     font-size: 1.0625rem;
     letter-spacing: .2em
@@ -261,7 +261,7 @@ p {
 .text-gradient,
 .countdown__label,
 .section__subtitle {
-    background: linear-gradient(0deg, rgb(252, 100, 0) 0%, rgb(253, 162, 0) 100%);
+    background: linear-gradient(0deg, #ff20c7 0%,#c70d98 100%);
     text-fill-color: transparent;
     background-clip: text;
     -webkit-background-clip: text;
@@ -366,7 +366,7 @@ p {
 }
 
 .text-primary {
-    color: #fd8000
+    color: #ff20c7
 }
 
 .text-center {
@@ -763,7 +763,7 @@ p {
 }
 
 .navbar__menu-link:hover {
-    color: #fd8000
+    color: #ff20c7
 }
 
 .navbar__burger {
@@ -854,7 +854,7 @@ p {
 
 .dropdown__btn:hover {
     transition: .3s ease-in-out all;
-    color: #fd8000
+    color: #ff20c7
 }
 
 .dropdown__content {
@@ -897,7 +897,7 @@ p {
 }
 
 .dropdown__content li a:hover {
-    color: #fd8000
+    color: #ff20c7
 }
 
 @media screen and (min-width: 768px) {
@@ -1197,7 +1197,7 @@ p {
     height: 4.0625rem;
     width: 4.0625rem;
     color: #fff;
-    background-color: #f70;
+    background-color: rgb(255, 106, 131);
     border-radius: 50%;
     font-size: .75rem;
     display: flex;
@@ -1788,35 +1788,35 @@ p {
 }
 
 .tokenomics-list__item--team {
-    --theme-color: #c12315
+    --theme-color: pink
 }
 
 .tokenomics-list__item--advisors {
-    --theme-color: #447BD9
+    --theme-color: pink
 }
 
 .tokenomics-list__item--rewards {
-    --theme-color: #FFA12D
+    --theme-color: pink
 }
 
 .tokenomics-list__item--ecosystem {
-    --theme-color: #5523ED
+    --theme-color: pink
 }
 
 .tokenomics-list__item--marketing {
-    --theme-color: #851DCD
+    --theme-color: pink
 }
 
 .tokenomics-list__item--liquidity {
-    --theme-color: #C1075F
+    --theme-color: pink
 }
 
 .tokenomics-list__item--seed {
-    --theme-color: #FF6924
+    --theme-color: pink
 }
 
 .tokenomics-list__item--public {
-    --theme-color: #5ACCE9
+    --theme-color: pink
 }
 
 .tokenomics-list__col {
@@ -2003,9 +2003,9 @@ p {
     background-color: #14131a;
     opacity: .8;
     z-index: -1;
-    box-shadow: 2px 2px 5px #00000026;
+    box-shadow: 2px 2px 5px #ff20c7;
     border-radius: 10px;
-    border-left: 10px solid #FD8000
+    border-left: 10px solid #ff20c7
 }
 
 .team-member__image {
@@ -2045,7 +2045,7 @@ p {
     width: 2rem;
     height: 2rem;
     border-radius: 5px;
-    background-color: #fd8000;
+    background-color: #ff20c7;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -2296,7 +2296,7 @@ p {
 @media (min-width: 1090px) {
     .intro-subpage .section--primary {
         position: relative;
-        background-color: #fd8000;
+        background-color: #ff20c7;
         border-radius: 79px;
         padding-inline: 112px;
         padding-block: 62px;
@@ -2359,7 +2359,7 @@ p {
     letter-spacing: .2em;
     line-height: 1.27;
     text-align: center;
-    color: #fd8000;
+    color: #ff20c7;
     margin-top: 84px;
     display: block
 }
@@ -2408,7 +2408,7 @@ p {
     left: 50%;
     margin: 0 0 0 -1px;
     width: 2px;
-    background-color: #fd8000;
+    background-color: #ff20c7;
     display: none
 }
 
@@ -2459,7 +2459,7 @@ p {
     left: 50%;
     transform: translate(-50%, -50%);
     display: block;
-    background-color: #fd8000;
+    background-color: #ff20c7;
     height: 26px;
     width: 26px;
     border-radius: 50%;
@@ -2611,11 +2611,11 @@ p {
 }
 
 .quarter__list li.current {
-    color: #fd8000
+    color: #ff20c7
 }
 
 .quarter__list li.current:after {
-    border-color: #fd8000
+    border-color: #ff20c7
 }
 
 .quarter__list li.passed:after {
