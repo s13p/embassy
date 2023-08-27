@@ -957,7 +957,7 @@ p {
 }
 
 .hero__clouds {
-    background: transparent url(../assets/img/clouds.png) repeat top center;
+    background: transparent url(../bg-01.jpg) repeat top center;
     z-index: 3;
     -moz-animation: move-clouds-back 200s linear infinite;
     -ms-animation: move-clouds-back 200s linear infinite;
