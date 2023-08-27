@@ -2185,12 +2185,14 @@ p {
     margin-right: auto;
     width: 3rem;
     height: 3rem;
-    margin-bottom: .625rem
+    margin-bottom: .625rem;
+    background-color: pink !important;
 }
 
 .social-list__item-link {
     display: block;
-    transition: .3s transform cubic-bezier(.42, 0, .58, 1)
+    transition: .3s transform cubic-bezier(.42, 0, .58, 1);
+
 }
 
 .social-list__item-link:hover {
